@@ -1,5 +1,6 @@
-¡Hola! En este repositorio encontrarás un ejercicio práctico y corto para aprender a crear una API y realizar su consumo. Esta guía está diseñada para despejar dudas y ayudarte en tu camino como Developer.
+Holaa
 ---
+En este repositorio encontrarás un ejercicio práctico y corto para aprender a crear una API y realizar su consumo.
 ## Herramientas Necesarias
 Para completar esta tarea, asegúrate de tener instaladas las siguientes herramientas:
 * **XAMPP Control Panel** (Para el servidor local y base de datos).
