@@ -1,5 +1,5 @@
 # Holaa
-Aca dejare un pequeño Ejercicio corto de como es la creacion de una Api y su consumo.
+Aca dejare un pequeño Ejercicio corto para poder crear una Api y su consumo.
 para ser breve el proceso con esta tarea debemos tener nuestras siguientes herramientas al alcance:
 
 - XAMPP CONTROL PANEL
