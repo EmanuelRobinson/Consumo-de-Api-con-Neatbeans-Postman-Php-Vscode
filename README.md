@@ -16,5 +16,6 @@ Antes de empezar con el código, debemos preparar nuestra base de datos:
 ## Manos al teclado
 Te invito a inspeccionar todo el código del proyecto. He incluido **notas y comentarios** dentro de los archivos para que tengas toda la información al alcance de tu mano.
 Espero que este material te sea de gran utilidad para aprender o reforzar tus conocimientos. 
-**¡Mucha suerte, Dev!**
+---
+**Mucha suerte, Dev**
 Atte. Emanuel
