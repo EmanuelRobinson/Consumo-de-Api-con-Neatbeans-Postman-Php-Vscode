@@ -13,7 +13,7 @@ Antes de empezar con el código, debemos preparar nuestra base de datos:
 3.  En la fila de MySQL, haz clic en el botón **Admin**.
 4.  Una vez en *phpMyAdmin*, crea una nueva base de datos con el nombre de tu preferencia.
 ¡Listo! Con esto tenemos los cimientos de nuestra aventura.
-## 👨‍💻 Manos a la Obra
+## Manos a la Obra
 Te invito a inspeccionar todo el código del proyecto. He incluido **notas y comentarios** dentro de los archivos para que tengas toda la información al alcance de tu mano.
 Espero que este material te sea de gran utilidad para aprender o reforzar tus conocimientos. 
 **¡Mucha suerte, Dev!**
