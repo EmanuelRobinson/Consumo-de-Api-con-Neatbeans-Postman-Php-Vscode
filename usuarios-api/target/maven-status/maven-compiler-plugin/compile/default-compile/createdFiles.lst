@@ -1,0 +1,6 @@
+com\empresa\service\UsuarioService.class
+com\empresa\exception\GlobalExceptionHandler.class
+com\empresa\model\Usuario.class
+com\empresa\UsuariosApiApplication.class
+com\empresa\repository\UsuarioRepository.class
+com\empresa\controller\UsuarioController.class
