@@ -28,7 +28,6 @@
 <p>Espero que este material te sea de gran utilidad para aprender o reforzar tus conocimientos.</p>
 
 <hr>
-<p><strong>Mucha suerte, Dev</strong></p>
+<p>Mucha suerte, Dev</p>
 <hr>
-
 <p>Atte. Emanuel</p>
